@@ -103,35 +103,14 @@ chapters:
 reviews:
   enable : true
   title : "Meinungen zu c3teleshop"
-  subtitle : "Das sagen unsere Kunden & Zuschauer:innen über uns:"
+  subtitle : "Das sagen unsere Kunden & Zuschauer:innen über uns (Bewertungen gerne über die bestehenden Kontaktmöglichkeiten abgeben):"
   review:
     # review item loop
-    - name : "Barrow Hasi"
-      image : "images/client/test-1.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
+    - name : "Kantorkel"
+      image : "images/shop/kantorkel.jpg" # image size 80*80 px
+      designation : "https://twitter.com/kantorkel"
       rating : "five" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-      
-    # review item loop
-    - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "four" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-      
-    # review item loop
-    - name : "Barrow Hasi"
-      image : "images/client/test-1.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "five" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-      
-    # review item loop
-    - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80*80 px
-      designation : "Sunrise ten"
-      rating : "four" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+      content : "Ich liebe den C3-Teleshop, wenn es darum geht, meiner Seele etwas Gutes zu tun. Da kaufe ich dann von der Perücke Antoinette bis zum Scheuerpulver alles."
 
 
 #################################### device ################################
