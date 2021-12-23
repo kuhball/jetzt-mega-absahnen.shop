@@ -64,7 +64,7 @@ author = "c3-teleshop"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "Copyright &copy; 2021 | [Influencer Theme](https://github.com/gethugothemes/influencer-hugo) | [Impressum](/static/impressum)  "
 
 # Preloader
 [params.preloader]
