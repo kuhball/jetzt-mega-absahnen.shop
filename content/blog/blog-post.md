@@ -1,10 +1,10 @@
 ---
-title: "My Awesome Blog Post"
+title: "Our Awesome Blog Post"
 date: 2019-11-23T15:28:43+06:00
 draft: false
 
 # post author
-author : "themefisher"
+author : "C3 Teleshop"
 
 # post thumb
 image: "images/blog/blog-1.jpg"
