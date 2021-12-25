@@ -20,30 +20,14 @@ type: "post"
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel
-nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,
-nam voluptate in beatae.
+Guten Tag,
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam officiis perspiciatis, eaque porro ad
-facilis vel amet. Pariatur eligendi odio voluptatem provident modi eos, perferendis quas delectus.
-Dolore, quo. Ad.
+haben Sie sich schon einmal Gedanken darüber gemacht, welche Innovationen Ihren Alltag erleichtern und verschönern können? Wir machen das jeden Tag. Gemeinsam mit zahlreichen Expert:innen und Tester:innen sind wir stets am Puls der Zeit und versuchen, das bestmögliche Shopping-Erlebnis für Sie möglich zu machen. Für uns zählt, was neue Produkte für Ihren Geist, Körper und Alltag tun können. Nicht das Drumherum. 
 
+Unsere Produkte sind dabei so exklusiv kuratiert, dass Sie genau die Neuerwerbung für Sich finden können, die Sie vielleicht schon lange gesucht haben. 
 
-> A brand for a company is like a reputation for a person. You earn reputation by
-trying to do hard things well.
+Finden Sie Ihr individuelles Shoppingerlebnis im C3-Teleshop - nutzen Sie hierfür auch unsere Hotline direkt ins Studio unter 0221 596197467. Wir freuen uns auf Sie!
 
-## We are leading industry to build your career
-
-The same is true as we experience the emotional sensation of
-stress from our first instances of social rejection ridicule. We quickly learn to fear and thus
-automatically.
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi
-laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in,
-doloribus hic aperiam maiores fugit.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat
-tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos
-animi laborum iusto expedita sapiente.
+Herzliche Grüße
+Ihr C3-Teleshop
                 
