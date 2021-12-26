@@ -8,6 +8,12 @@ banner:
   "
   # price : "14.99"
 
+simple_text:
+  enable : true
+  heading: "Spendenziel"
+  link: "https://www.medico.de/granica"
+  content: "Grupa Granica (\"Grenzgruppe\") ist ein Zusammenschluss mehrerer etablierter Nichtregierungsorganisationen in Polen, die seit vielen Jahren für und mit Migranten arbeiten. Die Gruppe wurde gegründet, um die humanitäre Krise an der polnisch-weißrussischen Grenze zu bewältigen. Sie bietet den Menschen, die dort festsitzen, materielle Unterstützung vor Ort und koordiniert eine Reaktion auf die Krise und alle neuen Entwicklungen. Zu der Gruppe gehören auch Dokumentations-, Ermittlungs- und Rechtsteams. "
+
 ######################## Book Preview ##########################
 preview:
   enable : false
