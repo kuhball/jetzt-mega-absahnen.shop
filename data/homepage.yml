@@ -46,17 +46,17 @@ service:
     # service item loop
     - title : "Sparen durch Kaufen"
       icon : "ti-shopping-cart-full" # themify icon pack : https://themify.me/themify-icons
-      content : "Langzeitige Experience im Bereich des Teleshoppings."
+      content : "Experience the thrill of shopping"
       
     # service item loop
     - title : "Besser haben als brauchen"
       icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      content : "Hoch hinaus, noch mehr Artikel in einer Nacht verkaufen als jemals zuvor."
+      content : "Jetzt preppen für die Apokalypse"
       
     # service item loop
     - title : "Mehr ist mehr"
       icon : "ti-stats-up" # themify icon pack : https://themify.me/themify-icons
-      content : "Dominieren des deutschen Teleshopping Markts mit unwiderstehlichen Produkten."
+      content : "Montag ist Montag und Dienstag ist Dienstag"
 
 
 ######################### Quote #############################
