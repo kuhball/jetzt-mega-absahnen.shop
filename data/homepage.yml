@@ -207,8 +207,8 @@ otherBooks:
 ################################ Blog ###################################
 blog:
   enable : true
-  title : "Heiße News direkt aus dem Studio"
-  subtitle : "Bleib auf dem laufenden mit unseren Blog Posts"
+  title : "Exklusive Informationen"
+  subtitle : "Bleiben Sie auf dem Laufenden mit unseren Awesome Teleshopping Blog Posts"
   # blog post comes from 'content/blog'
 
 ################################# Contact ##############################
