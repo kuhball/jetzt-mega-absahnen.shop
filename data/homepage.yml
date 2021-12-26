@@ -121,6 +121,10 @@ reviews:
       image : ""
       rating: "five"
       content: "Hervorragender Service mit kostenfreier Propheten-Pauschale: Wir kauften eine Ampel (rotes Licht, grünes Licht) und wussten so schon weit vor der Bundestagswahl sehr gut über die politische Zukunft bescheid. Ein Sortiment mit Weitblick. Sollte es dieses Jahr jedoch eine Flasche Jamaika-Rum im Angebot geben, würden wir darauf verzichten. Ansonsten aber: Immer wieder gerne wieder!"
+    - name : "Dennis"
+      image : ""
+      rating: "five"
+      content: "Hochwertige Produkte zu Spitzenpreisen. Da kann man nicht meckern. Mein im C3-Teleshop gekauftes Aquarium mit Lichteffekten ist bis heute frisch. 10 von 10, gerne wieder!"
 
 #################################### device ################################
 devices:
@@ -144,12 +148,15 @@ devices:
 author:
   enable : true
   image : "images/shop/set.jpg"
-  name : "Teleshopping Crew"
-  designation : "Wir machen das Unmögliche möglich!"
+  name : "Teleshopping?"
+  designation : "Die wichtigsten Infos kompakt:"
   content : "
   Wollen Sie noch erfolgreicher werden? Lernen Sie, Lernen und Wachstum zu lieben. Je mehr Mühe Sie sich geben, um Ihre Fähigkeiten zu verbessern, desto größer ist der Gewinn, den Sie daraus ziehen.\n
 
-  Es ist eine altbekannte Tatsache, dass ein Leser vom lesbaren Inhalt einer Seite abgelenkt wird, wenn er sich das Layout ansieht."
+  Es ist eine altbekannte Tatsache, dass ein Leser vom lesbaren Inhalt einer Seite abgelenkt wird, wenn er sich das Layout ansieht.
+  
+  Teleshopping ist eine Verkaufsform, bei der dem Verbraucher verschiedene Anreize geliefert werden Produkte spontan zu erwerben. Anreize werden in Form von Produkten und Versprechungen generiert. Das Medium zum Verkauf sind die Modersator:innen und der Bildschirm der Betrachtenden.
+  Wer hier kauft, sucht normalerweise nicht nach etwas ganz Bestimmten. Stattdessen folgt der Kunde aufgrund eines plötzlichen Anreizes dem Drang, ein bestimmtes Produkt zu kaufen, um die Lebenssituation zu verbessern"
 
   # signature
   # signature : "images/about/2.png"
