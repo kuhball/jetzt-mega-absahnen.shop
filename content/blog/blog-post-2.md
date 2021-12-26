@@ -29,3 +29,5 @@ Unsere Produkte werden speziell behandelt, damit Sie die gesuchte Neuanschaffung
 Finden Sie einen speziellen Store im C3-Teleshop - nutzen Sie die Telefonleitung direkt im Studio (0221 596197467).
 
 Typ C3 Teleshop
+
+Photo by [Ian Stauffer](https://unsplash.com/@ianstauffer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

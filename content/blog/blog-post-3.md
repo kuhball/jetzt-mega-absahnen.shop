@@ -7,7 +7,7 @@ draft: false
 author : "C3 Teleshop"
 
 # post thumb
-image: "images/blog/blog-1.jpg"
+image: "images/shop/blog-3.jpg"
 
 # meta description
 description: "this is meta description"
@@ -30,3 +30,5 @@ Unsere Produkte werden speziell behandelt, damit Sie die gesuchte Neuanschaffung
 Finden Sie ein C3 Teleshop Fachgeschäft - nutzen Sie die Telefonleitung direkt im Studio (0221 596197467).
 
 Teleshopping vom Typ C3
+  
+Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@campaign_creators?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
