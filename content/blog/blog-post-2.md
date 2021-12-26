@@ -1,10 +1,10 @@
 ---
-title: "My Awesome Blog Post"
+title: "Our Awesome Blog Post #2"
 date: 2019-11-23T15:28:43+06:00
 draft: false
 
 # post author
-author : "themefisher"
+author : "C3 Teleshop"
 
 # post thumb
 image: "images/shop/blog_sky.jpg"
@@ -20,32 +20,12 @@ type: "post"
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel
-nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem,
-nam voluptate in beatae.
+Gute Tage,
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam officiis perspiciatis, eaque porro ad
-facilis vel amet. Pariatur eligendi odio voluptatem provident modi eos, perferendis quas delectus.
-Dolore, quo. Ad.
+Haben Sie schon einmal über Innovationen nachgedacht, die Ihren Alltag einfacher und schöner machen? Wir suchen täglich in Zusammenarbeit mit vielen Profis und Testern. Wir versuchen ständig, mit den neuesten Nachrichten auf dem Laufenden zu bleiben und das beste Einkaufserlebnis zu bieten.Es liegt an uns zu entscheiden, was neue Produkte ohne Geist, Körper, Ja, Alltag, Eier, Ornamente auskommen.
 
+Unsere Produkte werden speziell behandelt, damit Sie die gesuchte Neuanschaffung finden.
 
-> A brand for a company is like a reputation for a person. You earn reputation by
-trying to do hard things well.
+Finden Sie einen speziellen Store im C3-Teleshop - nutzen Sie die Telefonleitung direkt im Studio (0221 596197467).
 
-## We are leading industry to build your career
-
-The same is true as we experience the emotional sensation of
-stress from our first instances of social rejection ridicule. We quickly learn to fear and thus
-automatically.
-
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi
-laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in,
-doloribus hic aperiam maiores fugit.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat
-tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos
-animi laborum iusto expedita sapiente.
-
-Photo by [Ian Stauffer](https://unsplash.com/@ianstauffer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  
+Typ C3 Teleshop
