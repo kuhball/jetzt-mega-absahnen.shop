@@ -113,7 +113,14 @@ reviews:
       image : ""
       rating: "five"
       content: "Der Riesenschäkel aus dem C3 Teleshop ist ein wahres Multitalent. Wir waren beinahe schon so weit eine Baustelle abzubrechen, weil kein Vorschlaghammer aufzutreiben war, da kam der Riesenschäkel schwungvoll zur Rettung. Er sollte in keinem Haushalt fehlen."
-
+    - name : "f13d3r"
+      image : ""
+      rating: "one"
+      content: "Ich bin mit dem Facial-Tanner unzufrieden, da er defekt ist. Die mechanische Zeitschaltuhr gibt zwar Laut, die Röhren verweigern jedoch den Dienst. Immerhin mit dem Ata bin ich zufrieden."
+    - name : "Franni & Martin"
+      image : ""
+      rating: "five"
+      content: "Hervorragender Service mit kostenfreier Propheten-Pauschale: Wir kauften eine Ampel (rotes Licht, grünes Licht) und wussten so schon weit vor der Bundestagswahl sehr gut über die politische Zukunft bescheid. Ein Sortiment mit Weitblick. Sollte es dieses Jahr jedoch eine Flasche Jamaika-Rum im Angebot geben, würden wir darauf verzichten. Ansonsten aber: Immer wieder gerne wieder!"
 
 #################################### device ################################
 devices:
