@@ -14,3 +14,17 @@ jobs:
 
     - name: hugo
       uses: klakegg/actions-hugo@1.0.0
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Build the Docker image
+      run: |
+        echo $CR_PAT | docker login ghcr.io -u YourAccountOrGHOrgaNameHere --password-stdin
+        docker build . --tag ghcr.io/kuhball/jetzt-mega-absahnen.shop:latest
+        docker run ghcr.io/kuhball/jetzt-mega-absahnen.shop:latest
+        docker push ghcr.io/kuhball/jetzt-mega-absahnen.shop:latest
+      env:
+        CR_PAT: ${{ secrets.CR_PAT }}
