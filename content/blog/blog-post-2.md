@@ -13,8 +13,8 @@ image: "images/shop/blog_sky.jpg"
 description: "this is meta description"
 
 # taxonomies
-categories: ["New Book"]
-tags: ["Photos", "HTML", "Book", "New"]
+categories: ["durch"]
+tags: ["OMG", "Teleshop", "YOLO", "$$$"]
 # post type
 type: "post"
 ---
