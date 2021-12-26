@@ -131,7 +131,7 @@ devices:
   feature:
     # feature item loop
     - title : "Fantastische Unterhaltung für die ganze Familie"
-      icon : "ti-id-badge" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-hand-point-right" # themify icon pack : https://themify.me/themify-icons
       content : "Für alle was dabei, egal ob groß oder klein, alt oder jung!"
       
   # button
