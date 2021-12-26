@@ -13,8 +13,8 @@ image: "images/shop/blog-3.jpg"
 description: "this is meta description"
 
 # taxonomies
-categories: ["Creative"]
-tags: ["Photos", "HTML", "Book", "New"]
+categories: ["kaufen"]
+tags: ["kaufen", "kaufen", "kaufen", "kaufen","kaufen", "kaufen", "kaufen", "kaufen"]
 # post type
 type: "post"
 ---
