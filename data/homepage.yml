@@ -104,11 +104,15 @@ reviews:
   subtitle : "Das sagen unsere Kund:innen & Zuschauer:innen über uns (Bewertungen gerne über die bestehenden Kontaktmöglichkeiten abgeben):"
   review:
     # review item loop
-    - name : "Kantorkel"
+    - name : "kantorkel"
       image : "images/shop/kantorkel.jpg" # image size 80*80 px
       designation : "https://twitter.com/kantorkel"
       rating : "five" # rating from one to five
       content : "Ich liebe den C3-Teleshop, wenn es darum geht, meiner Seele etwas Gutes zu tun. Da kaufe ich dann von der Perücke Antoinette bis zum Scheuerpulver alles."
+    - name : "le.chris"
+      image : ""
+      rating: "five"
+      content: "Der Riesenschäkel aus dem C3 Teleshop ist ein wahres Multitalent. Wir waren beinahe schon so weit eine Baustelle abzubrechen, weil kein Vorschlaghammer aufzutreiben war, da kam der Riesenschäkel schwungvoll zur Rettung. Er sollte in keinem Haushalt fehlen."
 
 
 #################################### device ################################
