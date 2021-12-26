@@ -125,12 +125,12 @@ reviews:
 #################################### device ################################
 devices:
   enable : true
-  title : "Zu viel Vorfreude?"
-  content : "Wenn Sie die neue Sendung kaum erwarten können, schauen Sie in die letzten rein:"
+  title : "Sie sind auf der Suche, aber wissen nicht wonach?"
+  content : "Lassen Sie sich von unseren letzten Sendungen inspirieren:"
   image : "images/shop/atagramm.jpg"
   feature:
     # feature item loop
-    - title : "Fantastische Unterhaltung für die ganze Familie"
+    - title : "Eine Bereicherung für die ganze Familie"
       icon : "ti-hand-point-right" # themify icon pack : https://themify.me/themify-icons
       content : "Für alle was dabei, egal ob groß oder klein, alt oder jung!"
       
