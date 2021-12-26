@@ -13,8 +13,8 @@ image: "images/blog/blog-1.jpg"
 description: "this is meta description"
 
 # taxonomies
-categories: ["Go Language"]
-tags: ["Photos", "HTML", "Python", "New"]
+categories: ["Sparen"]
+tags: ["Sparen", "Sparen", "Sparen", "Sparen","Sparen", "Sparen", "Sparen", "Sparen"]
 # post type
 type: "post"
 ---
