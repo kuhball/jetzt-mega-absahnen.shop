@@ -3,7 +3,7 @@ banner:
   enable : true
   # writter : "George Stewart"
   title : "rc3 now/here"
-  image : "images/shop/set.jpg"
+  image : "images/shop/logo.svg"
   content : "Call-In Soli-Versteigerung von Kuriositäten
 
   Am 28.12 ist es wieder soweit: Schalten Sie ein, tun Sie Gutes! Exklusiv für Sie stellen die fachkundigen Moderator:innen DJ Arnold und Karin erneut eine einzigartige Produktpalette vor und können schon jetzt versprechen: Jedes einzelne Produkt wird Ihr Leben bereichern! Unabhängige Expert*innen werden diese zudem in der Sendung überprüfen und bestätigen. 50% des Erlöses gehen an Grupa Granica, weitere 25% jeweils an die Betreibenden des Studios, die gemeinnützigen Vereine Gängeviertel e.V. und Motorschiff Stubnitz e.V. Lassen Sie sich diese einzigartige Möglichkeit altruistischen Konsums nicht entgehen!
@@ -134,7 +134,7 @@ devices:
 ######################################## author #############################
 author:
   enable : true
-  image : "images/shop/bike.jpg"
+  image : "images/shop/set.jpg"
   name : "Teleshopping Crew"
   designation : "Wir machen das Unmögliche möglich!"
   content : "
