@@ -7,7 +7,7 @@ draft: false
 author : "themefisher"
 
 # post thumb
-image: "images/blog/blog-1.jpg"
+image: "images/shop/blog_sky.jpg"
 
 # meta description
 description: "this is meta description"
@@ -46,4 +46,6 @@ doloribus hic aperiam maiores fugit.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, rerum beatae repellat
 tenetur incidunt quisquam libero dolores laudantium. Nesciunt quis itaque quidem, voluptatem autem eos
 animi laborum iusto expedita sapiente.
-                
+
+Photo by [Ian Stauffer](https://unsplash.com/@ianstauffer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
