@@ -101,7 +101,7 @@ chapters:
 reviews:
   enable : true
   title : "Meinungen zu c3teleshop"
-  subtitle : "Das sagen unsere Kunden & Zuschauer:innen über uns (Bewertungen gerne über die bestehenden Kontaktmöglichkeiten abgeben):"
+  subtitle : "Das sagen unsere Kund:innen & Zuschauer:innen über uns (Bewertungen gerne über die bestehenden Kontaktmöglichkeiten abgeben):"
   review:
     # review item loop
     - name : "Kantorkel"
