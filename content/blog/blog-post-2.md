@@ -1,6 +1,6 @@
 ---
 title: "Our Awesome Blog Post #2"
-date: 2019-11-23T15:28:43+06:00
+date: 2019-12-25T15:28:43+06:00
 draft: false
 
 # post author
