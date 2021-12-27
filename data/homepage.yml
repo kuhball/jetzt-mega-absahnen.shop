@@ -131,6 +131,18 @@ reviews:
       image : ""
       rating: "five"
       content: "Hochwertige Produkte zu Spitzenpreisen. Da kann man nicht meckern. Mein im C3-Teleshop gekauftes Aquarium mit Lichteffekten ist bis heute frisch. 10 von 10, gerne wieder!"
+    - name : "Haris"
+      image : ""
+      rating: "four"
+      content: "8/10, 4/5, würde immer wieder bestellen. Dank dem c3teleshop ist das Zahnrad-Bestellen einfacher denn je. Einfache Bestellung, liebevolle Bedienung an der Hotline, schneller Versand, beste Ware, top!!! Nur es hätte etwas mehr ATA dabei sein können, deswegen Punktabzug. Mit etwas mehr ATA wäre ich aber endlos glücklich."
+    - name : "Lukasz"
+      image : ""
+      rating: "five"
+      content: "Die SingendeSäge ist ein echter hingucker und ersetzt mir in meinem viel zu kleinem Zimmer wunderbar 40 laufende Meter Literatur bei gleichbleibendem Eindruck, Gäste fragen mich oft "Warum hast du eine Säge ohne Zähne an der Wand?", "Darauf kann man wirklich spielen?", "Kannst du bitte aufhören zu spielen?" diese Säge ist ein Muss für alle die eine Cocktailparty schmeißen wollen bei der die Gesprächsthemen nicht ausbleiben."
+    - name : "Katti"
+      image : ""
+      rating: "five"
+      content: "C3 Teleshop – der beste Ort, um ausgefallene Geschenke zu finden. Die liebevollen und detaillierten Präsentationen von Karin und DJ Arnold zeigen alle Facetten der Produkte. Einen Extrastern gibt es für das ATA."
 
 #################################### device ################################
 devices:
