@@ -147,6 +147,17 @@ reviews:
       image : ""
       rating: "five"
       content: "[gekürzt - a.d.R.] Alles in allem bin ich nach einem Jahr sehr zufrieden mit diesem Produkt (Plüschrouter, 2 Atagrammkarten, Floppylaufwerk) und kann es klar weiter empfehlen! 5/5 Punkte für die Sendeleistung und Anschlüsse, 5/5 Handhabung und Bedienoberfläche, 5/5 Updates werden auf Flauschzeit garantiert, 5/5 für zusätzliche Inhalte."
+    - name : "Karin Verkaufmann"
+      image : "images/shop/karin.jpg" # image size 80*80 px
+      designation : "https://twitter.com/KarinC3TeleShop"
+      rating: "one"
+      content: "Unter Zuständen müssen wir da performen, die unter aller Sau sind. Mir wurde eine eigene Garderobe versprochen mit Masseur und Koch und was war? Nix! Den Arsch habe ich mir abgefroren. Ganz übel, als Arbeitgeber nicht zu empfehlen. Würde null Sterne geben, wenn ich könnte."
+    - name : "DJ Arnold"
+      image : "images/shop/arnold.jpg"
+      designation : "https://twitter.com/C3Arnold"
+      rating : "one"
+      content : "Ich bin völlig am Ende von diesen ganzen Elektrogeräten, den blauen Bildschirmen und den schwachsinnigen Artikeln. Ich geh ab Januar 6 Wochen in Therapie und nie wieder dieser Scheiß."
+      
 #################################### device ################################
 devices:
   enable : true
