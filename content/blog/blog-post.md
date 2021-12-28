@@ -7,7 +7,7 @@ draft: false
 author : "C3 Teleshop"
 
 # post thumb
-image: "images/blog/blog-1.jpg"
+image: "images/shop/blog-1.jpg"
 
 # meta description
 description: "this is meta description"
