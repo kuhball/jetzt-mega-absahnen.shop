@@ -9,6 +9,12 @@ banner:
   # price : "14.99"
 
 simple_text:
+  enable: true
+  heading: "Wir haben fertig"
+  money: "2294,72€"
+  content: "Aloahe #rc3, chaostrawler hat alles verschickt & durchgeexcelt: 2294,72€ konnten wir euch entlocken. Damit gehen 1147,36€ an Grupa Granica, je 573,68€ an das Gängeviertel & MS Stubnitz – und davon je 100€ an die großartige Hanseatische Materialverwaltung. <3"
+
+simple_text_2:
   enable : true
   heading: "Spendenziel"
   link: "https://www.medico.de/granica"
